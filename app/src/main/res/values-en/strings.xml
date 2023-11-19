@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="victory_label">Victories</string>
+    <string name="play_buttom_label">Play</string>
+    <string name="player_turn_label">Player Turn: </string>
+    <string name="play_again_buttom_label">Play Again</string>
+    <string name="reset_scoreboard">Reset Scoreboard</string>
+</resources>

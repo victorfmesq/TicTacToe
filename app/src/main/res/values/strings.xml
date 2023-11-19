@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+    <string name="victory_label">Vitórias</string>
+    <string name="play_buttom_label">Jogar</string>
+    <string name="play_again_buttom_label">Jogar Novamente</string>
+    <string name="player_turn_label">Turno do jogador:  </string>
+    <string name="reset_scoreboard">Zerar Placar</string>
+</resources>
